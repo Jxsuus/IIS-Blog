@@ -1,6 +1,6 @@
 # IIS-Blog
 
-Blog personal de IIS (Introducción a la Ingeniería de Software)
+Blog sobre IIS (Introducción a la Ingeniería de Software)
 
 Nombres: Jesús Alberto
 
@@ -10,7 +10,7 @@ Edad: 17 años
 
 Me llama la atención el mundo de la programación.
 
-Espero mejorar este Blog poco a poco según los conocimientos que vaya adquiriendo a lo largo de la carrera.
+Esto es algo muy sencillo aún, espero mejorar este blog poco a poco según los conocimientos que vaya adquiriendo a lo largo de la carrera.
 
 
 
