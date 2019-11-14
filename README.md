@@ -8,8 +8,11 @@ Apellidos: Monserrate Reina
 
 Edad: 17 años
 
-Intereses:
 Me llama la atención el mundo de la programación :computer:
+
+Espero mejorar este Blog poco a poco según los conocimientos que vaya adquiriendo a lo largo de la carrera.
+
+
 
 
 
